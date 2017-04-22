@@ -16,4 +16,4 @@ Exchange messages through Chrome
 7. You can also change the placeholder text of the search textbox by inspecting and fiddling around with the textbox.
 8. Take a screenshot by pressing alt+printscr.
 9. Paste in MS Paint.
-10. Save and share
+10. Save and share.
